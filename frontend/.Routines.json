@@ -1,0 +1,256 @@
+{
+  "Push A": {
+    "exercise": [{"name":"Barbell Bench Press",
+    "sets": "4-5",
+    "reps": "5-8",
+    "muscle": {
+      "group": "Chest",
+      "target": "Pectoral, Tricep & Deltoids"
+    },
+		  "restTime": "2 min"},		 
+    {"name":"Seated DB Overhead Press",
+        "sets":     "3-4",
+        "reps":     "8-12",
+        "muscle":   {
+            "group": "Shoulders",
+            "target": "Shoulders, Upper Pectoral & Triceps"
+	},
+	"restTime": "90 sec"
+    },
+    {"name":"Parallel Dips",
+        "sets":     "3",
+        "reps":     "10-15",
+        "muscle":   {
+            "group": "Chest-Tricep",
+            "target": "Pectoral, Triceps, Front-Upper Shoulders & Outer-Middle Back"
+	},
+	"restTime": "60-90 sec"
+    },
+    {"name": "Flat Bench Flys",
+        "sets":     "3",
+        "reps":     "8-12",
+        "muscle":   {
+            "group": "Chest",
+            "target": "Pectoral, Triceps & Anterior Deltoids"
+	},
+	"restTime": "60-90 sec"
+    },
+    {
+	"name": "Lateral DB Raises",
+        "sets":     "3",
+        "reps":     "10-15",
+        "muscle":   {
+            "group": "Chest-Tricep",
+            "target": "Anterior-Lateral Deltoids & Serratus Anterior"
+	},
+	"restTime": "60 sec"
+    },
+    {
+	"name": "Diamond Push Ups",
+        "sets":     "2-3",
+        "reps":     "Max reps",
+        "muscle":   {
+            "group": "Tricep-Chest",
+            "target": "Triceps, Pectoral & Deltoids"
+	},
+	"restTime": "60 sec"
+    }
+    
+  ]
+  },
+  
+  "Pull A": {
+    "exercise": [
+      {
+        "name":     "Bent Over Barbell Rows (underhand grip)",
+        "sets":     "4-5",
+        "reps":     "6-10",
+        "restTime": "90-120 sec"
+      },
+      {
+        "name":     "Chin Ups:",
+        "sets":     "3-4",
+        "reps":     "Max full range",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Rack Pulls",
+        "sets":     "3",
+        "reps":     "5-8",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Kroc Rows",
+        "sets":     "3",
+        "reps":     "10-12 each side",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Seated Close-Grip Rows",
+        "sets":     "3",
+        "reps":     "10-15",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Bicep Curls",
+        "sets":     "2-3",
+        "reps":     "10-20",
+        "restTime": "60 sec"
+      }
+    ]
+  },
+  "Legs A": {
+    "exercise" :[
+      {
+        "name":     "Barbell Back Squats",
+        "sets":     "4-5",
+        "reps":     "5-8",
+        "restTime": "2 min"
+      },
+      {
+        "name":     "Barbell Hip Thursts",
+        "sets":     "3-4",
+        "reps":     "6-10",
+        "restTime": "90-120 sec"
+      },
+      {
+        "name":     "RDL",
+        "sets":     "3",
+        "reps":     "8-12",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Split Squats",
+        "sets":     "3",
+        "reps":     "8-12 each side",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Standing Calf Raises",
+        "sets":     "3",
+        "reps":     "12-20",
+        "restTime": "60 sec"
+      }
+    ]
+  },
+  "Push B": {
+    "exercise": [
+      {
+        "name":     "Standing Military Press",
+        "sets":     "4-5",
+        "reps":     "5-10",
+        "restTime": "2 min"
+      },
+      {
+        "name":     "Incline DB Bench Press",
+        "sets":     "3-4",
+        "reps":     "8-12",
+        "restTime": "90-120 sec"
+      },
+      {
+        "name":     "Incline DB Fly",
+        "sets":     "3",
+        "reps":     "8-12",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Upright Rows",
+        "sets":     "3",
+        "reps":     "8-12",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Cable Lateral Raises",
+        "sets":     "2",
+        "reps":     "15-20",
+        "restTime": "60 sec"
+      },
+      {
+        "name":     "Tricep Dips x Overhead Rope Extensions",
+        "sets":     "2-3",
+        "reps":     "10-15",
+        "restTime": "60 sec"
+      }
+    ]
+  },
+  "Pull B": {
+    "exercise": [
+      {
+        "name":     "Pull Ups",
+        "sets":     "4-5",
+        "reps":     "Max full range reps",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Bent Over Barbell Rows",
+        "sets":     "3-4",
+        "reps":     "6-10",
+        "restTime": "90-120 sec"
+      },
+      {
+        "name":     "T-Bar Rows",
+        "sets":     "3",
+        "reps":     "8-12",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Rear Delt Flys",
+        "sets":     "3-4",
+        "reps":     "10-15",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Shrugs",
+        "sets":     "3",
+        "reps":     "8-12 reps with 2 sec holds at top",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Hammer Curls",
+        "sets":     "2-3",
+        "reps":     "10-15",
+        "restTime": "60 sec"
+      }
+    ]
+  },
+  "Legs B": {
+    "exercise": [
+      {
+        "name":     "Barbell Deadlifts",
+        "sets":     "4-5",
+        "reps":     "4-8",
+        "restTime": "2 min"
+      },
+      {
+        "name":     "Front Squat or Leg Press",
+        "sets":     "3-4",
+        "reps":     "8-12",
+        "restTime": "90-120 sec"
+      },
+      {
+        "name":     "Good Mornings",
+        "sets":     "3",
+        "reps":     "10-12",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Bulgarian Split Squats",
+        "sets":     "3",
+        "reps":     "8-12 reps each side",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Leg Curl x Leg Extension",
+        "sets":     "2",
+        "reps":     "10-15 reps each",
+        "restTime": "60 sec"
+      },
+      {
+        "name":     "Seated or Donkey Calf Raises",
+        "sets":     "3",
+        "reps":     "10-20",
+        "restTime": "60 sec"
+      }
+    ]
+  }
+}
