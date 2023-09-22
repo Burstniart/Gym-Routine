@@ -26,6 +26,12 @@
 	},
 	"restTime": "60-90 sec"
     },
+    {
+        "name":     "Front plate raise",
+        "sets":     "3-4",
+        "reps":     "10-12 each side",
+        "restTime": "60-90 sec"
+    },
     {"name": "Flat Bench Flys",
         "sets":     "3",
         "reps":     "8-12",
