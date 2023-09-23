@@ -216,6 +216,12 @@
         "sets":     "2-3",
         "reps":     "10-15",
         "restTime": "60 sec"
+      },
+      {
+        "name":     "Farmer's Walk",
+        "sets":     "3-4",
+        "reps":     "2-4 laps",
+        "restTime": "60-90 sec"
       }
     ]
   },
