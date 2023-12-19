@@ -102,6 +102,12 @@
         "sets":     "2-3",
         "reps":     "10-20",
         "restTime": "60 sec"
+      },
+      {
+        "name":     "Lumbar extension",
+        "sets":     "3-4",
+        "reps":     "12-20",
+        "restTime": "60 sec"
       }
     ]
   },
@@ -222,6 +228,12 @@
         "sets":     "3-4",
         "reps":     "2-4 laps",
         "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Lumbar extension",
+        "sets":     "3-4",
+        "reps":     "12-20",
+        "restTime": "60 sec"
       }
     ]
   },
