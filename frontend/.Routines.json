@@ -74,21 +74,9 @@
         "restTime": "90-120 sec"
       },
       {
-        "name":     "Chin Ups:",
-        "sets":     "3-4",
-        "reps":     "Max full range",
-        "restTime": "90 sec"
-      },
-      {
         "name":     "Rack Pulls",
         "sets":     "3",
         "reps":     "5-8",
-        "restTime": "90 sec"
-      },
-      {
-        "name":     "Kroc Rows",
-        "sets":     "3",
-        "reps":     "10-12 each side",
         "restTime": "90 sec"
       },
       {
@@ -104,6 +92,12 @@
         "restTime": "60 sec"
       },
       {
+        "name":     "Chin Ups:",
+        "sets":     "3-4",
+        "reps":     "Max full range",
+        "restTime": "90 sec"
+      },
+      {
         "name":     "Lumbar extension",
         "sets":     "3-4",
         "reps":     "12-20",
@@ -115,27 +109,39 @@
     "exercise" :[
       {
         "name":     "Barbell Back Squats",
-        "sets":     "4-5",
-        "reps":     "5-8",
-        "restTime": "2 min"
-      },
-      {
-        "name":     "Barbell Hip Thursts",
-        "sets":     "3-4",
-        "reps":     "6-10",
-        "restTime": "90-120 sec"
-      },
-      {
-        "name":     "RDL",
         "sets":     "3",
+        "reps":     "8",
+        "restTime": "90 sec"
+      },
+      {
+        "name":     "Barbell Back Squats (Decresing weight)",
+        "sets":     "4-5",
+        "reps":     "AMRAP",
+        "restTime": "30 secs"
+      },
+      {
+        "name":     "Quadricep Machine",
+        "sets":     "4",
+        "reps":     "8-12",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Leg Press",
+        "sets":     "4",
         "reps":     "8-12",
         "restTime": "90 sec"
       },
       {
-        "name":     "Split Squats",
-        "sets":     "3",
-        "reps":     "8-12 each side",
-        "restTime": "90 sec"
+        "name":     "Glute kick",
+        "sets":     "4",
+        "reps":     "8-12",
+        "restTime": "60-90 sec"
+      },
+      {
+        "name":     "Abductor machine",
+        "sets":     "3-4",
+        "reps":     "8",
+        "restTime": "60 sec"
       },
       {
         "name":     "Standing Calf Raises",

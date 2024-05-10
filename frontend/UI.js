@@ -41,6 +41,7 @@ class UI {
 Reps: ${exer.reps}
 Rest Time: ${exer.restTime}
                     </pre>
+                    <!--
                 <div class="form-check-inline">
                     <input class="form-check-input" type="checkbox" id="${exer.name}-lightWeight" value="${exer.name}-lightWeight"/>
                     <label class="form-check-label" for="${exer.name}-lightWeight">Light weight</label>
@@ -53,6 +54,7 @@ Rest Time: ${exer.restTime}
                     <label class="floatingInput" for="${exer.name}-weight">Weight</label>
                     <input class="form-check" type="number" id="${exer.name}-weight" value="${exer.name}-weight"/>                
                 </div>
+                -->
                 `;
 		document.getElementById(rout).appendChild(div);
 	});
